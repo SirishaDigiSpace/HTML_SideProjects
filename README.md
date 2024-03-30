@@ -10,6 +10,8 @@ This website is about brief description on travel, requirements, guidelines and 
 
 ![IMG_20240329_154906](https://github.com/SirishaDigiSpace/HTML_SideProjects/assets/116715315/589dec76-3dc4-4d9b-997a-a3fee09ad798)
 
+![IMG_20240329_155005](https://github.com/SirishaDigiSpace/HTML_SideProjects/assets/116715315/3e6e91b2-da21-48ce-93ae-24d8af3cf41a)
+
 ![IMG_20240329_154942](https://github.com/SirishaDigiSpace/HTML_SideProjects/assets/116715315/46e51403-c93b-4159-ae4c-f3d7264ecddc)
 
 
