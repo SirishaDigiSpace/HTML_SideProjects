@@ -14,4 +14,7 @@ This website is about brief description on travel, requirements, guidelines and 
 
 ![IMG_20240329_154942](https://github.com/SirishaDigiSpace/HTML_SideProjects/assets/116715315/46e51403-c93b-4159-ae4c-f3d7264ecddc)
 
+![IMG_20240329_155042](https://github.com/SirishaDigiSpace/HTML_SideProjects/assets/116715315/408ad1ed-427b-4e57-9e87-d25a2db7f844)
+
+
 
